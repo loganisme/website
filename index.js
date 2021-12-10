@@ -70,4 +70,3 @@ for (let i = 1000,a = 0; i < newly.length*1000,a<newly.length; i += 1000,a++) {
   console.log(i);
   console.log(a);
 }
-alert("bắt đầu");
